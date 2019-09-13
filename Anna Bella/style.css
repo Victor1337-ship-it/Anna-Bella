@@ -1,0 +1,51 @@
+body{
+
+	margin: ;
+	font: 16px Aria, sans-serif;
+	background: pink;
+}
+
+#Principal{
+	margin: 0 auto;
+	width: 900px;
+}
+
+#Menu{
+	background: black;
+	text-align: center;
+	padding:10px;
+	margin-bottom: 5px;
+}
+
+#Content{
+	padding: 10px;
+	background: black;
+}
+
+#Content img{
+	border: 5px solid pink;
+	margin-left: 15PX;
+}
+
+.Footer{
+	background: black;
+	color: pink;
+	text-align: center;
+}
+
+a{
+	color: pink;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px
+}
+
+h1{
+	font-size: 1.2em;
+	color: pink;
+}
+
+#Content,p{
+	color: pink;
+	padding: px;
+}
